@@ -6,7 +6,7 @@
 ![BASE DE DATOS](![image](https://github.com/HEJimGuev/UIII-Act-3-CRUD-tabla-relacional-The-Collector-Shop/assets/143548108/5924ce93-7427-420d-bc93-19225a9b4369)
 
 ### PRODUCTOS
-![image](![nuevo producto](![productos](https://github.com/HEJimGuev/UIII-Act-3-CRUD-tabla-relacional-The-Collector-Shop/assets/143548108/ead0624f-5deb-44c0-b90f-07b79ace9625)
+(![nuevo producto](![productos](https://github.com/HEJimGuev/UIII-Act-3-CRUD-tabla-relacional-The-Collector-Shop/assets/143548108/ead0624f-5deb-44c0-b90f-07b79ace9625)
 
 ### PEDIDOS
 ![image](![pedidos](https://github.com/HEJimGuev/UIII-Act-3-CRUD-tabla-relacional-The-Collector-Shop/assets/143548108/546bb44d-fd6f-4286-b734-72dc6d4225fb)
